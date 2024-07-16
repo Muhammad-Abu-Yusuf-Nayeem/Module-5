@@ -89,3 +89,42 @@
   background: green;
   border: none;
 }
+#card-box {
+  width: 1095px;
+  margin: 50px auto;
+}
+#card-box {
+}
+#card-box .title {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+#card-box .subtitle {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: center;
+  opacity: 0.6;
+}
+#card-box .info {
+  width: 900px;
+  margin: 110px auto;
+}
+.card-container {
+  margin-bottom: 40px;
+  margin-top: ;
+}
+.card {
+  max-width: 300px;
+}
+.card .image-box img {
+  width: 100%;
+}
